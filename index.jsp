@@ -9,8 +9,8 @@
 </head>
 <body>
 <form action="login">
-	db_killer：<input id="username" name="username" type="text"></input><br>
-	**#########：<input id="username" name="password" type="password"></input><br>
+	666：<input id="username" name="username" type="text"></input><br>
+	111：<input id="username" name="password" type="password"></input><br>
 	<input type="submit" value="登录">
 </form>
 </body>
