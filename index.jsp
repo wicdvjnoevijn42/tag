@@ -9,8 +9,8 @@
 </head>
 <body>
 <form action="login">
-	666：<input id="username" name="username" type="text"></input><br>
-	111：<input id="username" name="password" type="password"></input><br>
+	tool：<input id="username" name="username" type="text"></input><br>
+	haha：<input id="username" name="password" type="password"></input><br>
 	<input type="submit" value="登录">
 </form>
 </body>
